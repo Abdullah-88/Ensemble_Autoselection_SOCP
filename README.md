@@ -27,3 +27,19 @@ or [download a zip archive](https://github.com/Abdullah-88/Ensemble_Autoselectio
 
 ## Dependencies
 
+python                    3.9.5
+
+tensorflow-gpu            2.4.1
+cudatoolkit               10.1.243           
+cudnn                     7.6.5
+keras-tuner               1.0.3 
+Cvxpy                     1.6.3
+
+## License
+
+All source code is made available under a BSD 3-clause license. You can freely
+use and modify the code, without warranty, so long as you provide attribution
+to the authors. See `LICENSE.md` for the full license text.
+
+The manuscript text is not open source. The authors reserve the rights to the
+article content, which is currently submitted for publication.
