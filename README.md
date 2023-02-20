@@ -27,13 +27,12 @@ or [download a zip archive](https://github.com/Abdullah-88/Ensemble_Autoselectio
 
 ## Dependencies
 
-python                    3.9.5
-
-tensorflow-gpu            2.4.1
-cudatoolkit               10.1.243           
-cudnn                     7.6.5
-keras-tuner               1.0.3 
-Cvxpy                     1.6.3
+python                    3.9.5    <br />
+tensorflow-gpu            2.4.1    <br />
+cudatoolkit               10.1.243 <br />         
+cudnn                     7.6.5    <br />
+keras-tuner               1.0.3    <br />
+Cvxpy                     1.6.3    <br />
 
 ## License
 
