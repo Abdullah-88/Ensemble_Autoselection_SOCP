@@ -5,6 +5,10 @@ Abdullah Nazhat Abdullah,
 Muhammad Ammar Ali, 
 Süreyya Özöğür-Akyüz
 
+Accepted in Neural Networks, Elsevier
+
+DOI : 10.1016/j.neunet.2025.107544
+
 ## Abstract
 Ensemble techniques are frequently encountered in machine learning and engineering problems since the method combines different models and produces
 an optimal predictive solution. The ensemble concept can be adapted to deep
@@ -15,6 +19,8 @@ which prunes the ensemble of Convolutional Neural Networks (CNN) consisting
 of different depths and layers that maximizes accuracy and diversity simultaneously with a sparse second order conic optimization model. The proposed
 model is tested on CIFAR-10, CIFAR-100 and MNIST data sets which gives
 promising results while reducing the complexity of models, significantly.
+
+Publisher link: https://www.sciencedirect.com/science/article/abs/pii/S089360802500423X?via%3Dihub
 
 ## Getting the code
 
